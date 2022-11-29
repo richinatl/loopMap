@@ -13,7 +13,7 @@ Java built on the Eclipse IDE
 <br>
 
 ### Contributors
-None at this time, if you have an idea you'd like to add feel free to contact me
+None at this time, if you have an idea you'd like to share feel free to contact me
 
 ### Contact Details
 * Email: richinatl@gmail.com
