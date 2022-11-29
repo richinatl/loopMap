@@ -1,4 +1,4 @@
-#loopMap
+# loopMap
 
 ### Description
 Using Java to build and command line math utility to expand my knowlege and practice using Java Array Lists and Loops. This is one of several small projects in the works as I learn all the ins and outs of Java. My goal is to add each small step one at a time to show and document the process I'm using as I  learn a new language.
